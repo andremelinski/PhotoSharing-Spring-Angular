@@ -1,0 +1,1 @@
+https://www.baeldung.com/jpa-joincolumn-vs-mappedby#:~:text=The%20%40JoinColumn%20annotation%20helps%20us,owning%20side)%20of%20the%20relationship. 
